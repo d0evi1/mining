@@ -1,10 +1,12 @@
 # mining tool
-this toolbox is used in data mining or other scene. have fun! 
+提供一些日常有用基于算法的的工具类.
  
 ## simhash_filter tool
-this tool is use simhash algrithm to filter chinese docment, especialy good for weibo messages.
-
-chinese segment algrithm: use jieba.
+基于中文分词实现的simhash算法文档去重过滤器。
+分词采用：jieba分词
 simhash: 5 index.
+
+## pearson method
+pearson方法调用.
 
  
